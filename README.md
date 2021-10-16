@@ -1,11 +1,17 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Daniel 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dmolina-power.Dmolina-power) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Dmolina-power)
-- Full MERN Stack Web Developer currently I'm an Instructor at a Non-Profit coding bootcamp! :school:
-- 🔭 I’m currently working on Artscape an app for artist and artlovers!
-- 🌱 I’m currently learning UI/UX Design with Coursera/Grow with Google
-- 📫 How to reach me: danielmolinapower@gmail.com or visit my site at: www.danielmolinacodes.com
 
+
+
+- Full MERN Stack Web Developer currently I'm an Instructor at a Non-Profit coding bootcamp!
+
+
+
+- 💼 I’m currently working on Artscape an app for artist and artlovers!
+- 📚 I’m currently learning UI/UX Design with Coursera/Grow with Google
+- 📧 How to reach me: danielmolinapower@gmail.com or 🌐 visit my site at: www.danielmolinacodes.com
 # :man_technologist: skills with :point_down:
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
