@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Daniel 
+# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Daniel 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dmolina-power.Dmolina-power) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Dmolina-power)
 
 
@@ -10,7 +10,7 @@
 - 💼 I’m currently working on Artscape an app for artist and artlovers!
 - 📚 I’m currently learning UI/UX Design with Coursera/Grow with Google
 - 📧 How to reach me: danielmolinapower@gmail.com or 🌐 visit my site at: www.danielmolinacodes.com
-# :man_technologist: skills with :point_down:
+# 👨‍💻 skills with 👇
 
 <div align="center">
 
