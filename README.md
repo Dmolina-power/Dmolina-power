@@ -1,4 +1,4 @@
-<!-- ![banner](image\bannerD.png) -->
+ ![banner](image\bannerD.png) 
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Daniel 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dmolina-power.Dmolina-power) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Dmolina-power)
 
@@ -9,11 +9,12 @@
 
 # 🌎 Where to find me
 - 🌐 visit my site at: www.danielmolinacodes.com
+<div align="center">
 
 <a href="https://www.linkedin.com/in/daniel-molina-power/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/power_molina" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 <a href="mailto:danielmolinapower@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+</div>
 # 👨‍💻 Coding Tools and Languages 
 
 
