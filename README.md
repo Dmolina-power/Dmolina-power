@@ -1,16 +1,22 @@
+![]()
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Daniel 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dmolina-power.Dmolina-power) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Dmolina-power)
 
-
-
 - Full MERN Stack Web Developer currently I'm an Instructor at a Non-Profit coding bootcamp!
-
-
-
 - 💼 I’m currently working on Artscape an app for artist and artlovers!
 - 📚 I’m currently learning UI/UX Design with Coursera/Grow with Google
-- 📧 How to reach me: danielmolinapower@gmail.com or 🌐 visit my site at: www.danielmolinacodes.com
-# 👨‍💻 skills with 👇
+
+
+# 🌎 Where to find me
+- 🌐 visit my site at: www.danielmolinacodes.com
+
+<a href="https://www.linkedin.com/in/daniel-molina-power/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/power_molina" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="mailto:danielmolinapower@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+# 👨‍💻 Coding Tools and Languages 
+
+
 
 <div align="center">
 
@@ -69,14 +75,13 @@
 <div align="center">
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)                          
-
 </div>
 
 # My Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmolina-power&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dmolina-power&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmolina-power&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmolina-power&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmolina-power&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-</div>
+
