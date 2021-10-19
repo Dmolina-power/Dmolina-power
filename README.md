@@ -1,4 +1,4 @@
- ![banner](image/banner3.png) 
+![banner](image/banner3.png) 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dmolina-power.Dmolina-power) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Dmolina-power)
 
@@ -8,7 +8,8 @@
 
 
 # 🌎 Where to find me
-- 🌐 visit my site at: www.danielmolinacodes.com
+- 🌐 visit my site at: www.danielmolinacodes.com or 
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/daniel-molina-power/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
