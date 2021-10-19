@@ -82,9 +82,15 @@
 
 # 📈 My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmolina-power&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dmolina-power&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmolina-power&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dmolina-power&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
+  </a>
+  <a>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Dmolina-power&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmolina-power&langs_count=6&theme=radical" />
+  </a>
 
 
 
