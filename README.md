@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dmolina-power.Dmolina-power) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Dmolina-power)
 
 - 💻 Full MERN Stack Web Developer currently I'm an Instructor at a Non-Profit coding bootcamp!
-- 💼 I’m currently working on Artscape an app for artist and artlovers!
+- 💼 I’m currently working on Artscape an app for artist and artlovers, and a website and app for a dad's baseball league!
 - 📚 I’m currently learning UI/UX Design with Coursera/Grow with Google
 
 # 🌎 Where to find me
